@@ -24,15 +24,15 @@ The simulation analyzes lift, drag, thrust required, power required, stall speed
 
 ### Performance Plots
 
-![Performance Plots](performance_plots.png)
+![Performance Plots](performance_plots.png.png)
 
 ### Flight Envelope
 
-![Flight Envelope](flight_envelope.png)
+![Flight Envelope](flight_envelope.png.png)
 
 ### Drag Polar
 
-![Drag Polar](drag_polar.png)
+![Drag Polar](drag_polar.png.png)
 
 ## Software Used
 
